@@ -1,0 +1,6 @@
+iqoptionapi
+requests
+pandas
+numpy
+scikit-learn
+flask
