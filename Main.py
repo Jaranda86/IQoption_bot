@@ -13,10 +13,10 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder
 
 # 🔐 Variables de entorno
-EMAIL = os.getenv("arandajuan364@gmail.com")
-PASSWORD = os.getenv("Jpelo1986$$$)
-TOKEN = os.getenv("7972533599:AAHnv3MHTXajFma6-g0AU5AEixSWJrxQYW4")
-CHAT_ID = os.getenv(""6826449033"")
+EMAIL = os.getenv("E-mail")
+PASSWORD = os.getenv("password")
+TOKEN = os.("telegram")
+CHAT_ID = os.getenv("telegram")
 
 MODO = "PRACTICE"
 MONTO = 100
