@@ -1,6 +1,3 @@
-from keep_alive import keep_alive
-keep_alive()
-
 import os
 from iqoptionapi.stable_api import IQ_Option
 import time
