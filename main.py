@@ -1,5 +1,5 @@
 import os
-from iqoptionapi import IQ_Option
+from iqoption import IQ_Option
 import time
 import pandas as pd
 import numpy as np
